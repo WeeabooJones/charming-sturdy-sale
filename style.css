@@ -1,0 +1,55 @@
+/* CSS files add styling rules to your content */
+.carousel-inner{
+  padding-top:30px;
+margin-top:30px;
+ width:650px;
+  height:500px;
+   display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+#carouselExampleCaptions{
+    background:red;
+   width:650px;
+  height:500px;
+}
+#background{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+ background:red; 
+ width:70%;
+}
+.navbar{
+  background:black;
+}
+.navbar-brand{
+ color:white;
+}
+.nav-link{
+ color:white;
+}
+#wrapper{
+  padding-top:50px;
+  margin-top:20px;
+  background:white;
+ width:650px;
+  height:500px;
+   display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border:solid 1px ;
+}
+#heading{
+  text-align:center;
+}
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+#img1{
+ height:550px;
+  }
+#para{
+  text-align:center;
+}
